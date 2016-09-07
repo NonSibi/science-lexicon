@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "topic": "Biology",
+    "version": "0.1.0"
+  },
+  "entries": [
+    {
+      "terms": {
+        "en":"nightingale",
+        "ar":"بلابل"
+      },
+      "definitions": {
+        "en":"A gas or element which is number 8 on the periodic table.",
+        "ar":"اوكسجين اوكسجين اوكسجين اوكسجين اوكسجين"
+      },
+      "citations":[
+        "http://google.com"
+      ]
+    },
+    {
+      "terms": {
+        "en":"parrot",
+        "ar":"ببغاوات"
+      },
+      "definitions": {
+        "en":"A gas or element which is number 8 on the periodic table.",
+        "ar":"اوكسجين اوكسجين اوكسجين اوكسجين اوكسجين"
+      },
+      "citations":[
+        "http://google.com"
+      ]
+    },
+    {
+      "terms": {
+        "en":"pig",
+        "ar":"خنازير"
+      },
+      "definitions": {
+        "en":"A gas or element which is number 8 on the periodic table.",
+        "ar":"اوكسجين اوكسجين اوكسجين اوكسجين اوكسجين"
+      },
+      "citations":[
+        "http://google.com"
+      ]
+    },
+    {
+      "terms": {
+        "en":"horse",
+        "ar":"حصن"
+      },
+      "definitions": {
+        "en":"A gas or element which is number 8 on the periodic table.",
+        "ar":"اوكسجين اوكسجين اوكسجين اوكسجين اوكسجين"
+      },
+      "citations":[
+        "http://google.com"
+      ]
+    },
+    {
+      "terms": {
+        "en":"cat",
+        "ar":"قطط"
+      },
+      "definitions": {
+        "en":"A gas or element which is number 8 on the periodic table.",
+        "ar":"اوكسجين اوكسجين اوكسجين اوكسجين اوكسجين"
+      },
+      "citations":[
+        "http://google.com"
+      ]
+    },
+    {
+      "terms": {
+        "en":"animal",
+        "ar":"حيوانات"
+      },
+      "definitions": {
+        "en":"A gas or element which is number 8 on the periodic table.",
+        "ar":"اوكسجين اوكسجين اوكسجين اوكسجين اوكسجين"
+      },
+      "citations":[
+        "http://google.com"
+      ]
+    }
+  ]
+}
